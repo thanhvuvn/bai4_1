@@ -1,0 +1,2 @@
+Ma sinh vien: 23ite - Ho ten: vu - Gioi tinh: nam - Diem Python: 8.0 - Diem Java: 9.0 - Diem trung binh: 8.666666666666666 - Ket qua: Dau
+Ma sinh vien: 23te - Ho ten: thanh - Gioi tinh: nu - Diem Python: 3.0 - Diem Java: 4.0 - Diem trung binh: 3.6666666666666665 - Ket qua: Dau
